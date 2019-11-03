@@ -13,7 +13,7 @@ Roadmap to Web Development:
     - [Git:](#git)
     - [Programming Languages:](#programming-languages)
       - [Front-End Programming Languages](#front-end-programming-languages)
-    - [Back-End Programming Languages](#back-end-programming-languages)
+      - [Back-End Programming Languages](#back-end-programming-languages)
     - [Web Frameworks:](#web-frameworks)
       - [Front-End Web Frameworks:](#front-end-web-frameworks)
       - [Back-End Web Frameworks:](#back-end-web-frameworks)
@@ -146,7 +146,7 @@ Roadmap to Web Development:
         * [geekcomputers/Python](https://github.com/geekcomputers/Python)
 
     * YouTube/
-        * [Corey Schafer](https://www.youtube.com/user/schafer5) ([GitHub](https://github.com/CoreyMSchafer)
+        * [Corey Schafer](https://www.youtube.com/user/schafer5) ([GitHub](https://github.com/CoreyMSchafer))
         * [sentdex](https://www.youtube.com/user/sentdex) ([Website](https://pythonprogramming.net/))
 
 * #### Ruby:

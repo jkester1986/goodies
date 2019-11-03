@@ -9,6 +9,7 @@
     * [TopCoder](https://www.topcoder.com/)
     * [CodeWars](https://www.codewars.com/)
     * [CodeForces](https://codeforces.com/)
+    * [AdventOfCode](https://adventofcode.com/) - 25 days of themed coding challenges, starting each year on Dec 1.
     * [LeetCode](https://leetcode.com/)
     * [Project Lovelace](https://projectlovelace.net/) - free scientific programming problems.
     * [Exercism.io](https://exercism.io/)
@@ -17,5 +18,5 @@
     * [HackerEarth](https://hackerearth.com/)
     * [edabit](https://edabit.com/)
     * [practiceJS](https://practicejs.com/) - some JavaScript coding exercises put into a web app so they can be done on a phone.
-
+    * [CodinGame](https://www.codingame.com/home)
 ---
